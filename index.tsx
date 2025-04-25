@@ -1,0 +1,1 @@
+<El código actualizado del componente>
